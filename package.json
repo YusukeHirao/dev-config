@@ -1,0 +1,21 @@
+{
+  "name": "@yusukehirao/dev-config",
+  "version": "0.0.1",
+  "description": "Configurations of Prettier, ESLint, and TypeScript etc.",
+  "author": "yusukehirao",
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.50.0",
+    "@typescript-eslint/parser": "^5.50.0",
+    "eslint": "^8.33.0",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsdoc": "^39.7.5",
+    "eslint-plugin-sort-class-members": "^1.16.0",
+    "prettier": "^2.8.3"
+  }
+}

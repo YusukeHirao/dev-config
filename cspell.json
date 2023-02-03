@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "allowCompoundWords": true,
+  "dictionaries": [
+    "css",
+    "en-gb",
+    "en_US",
+    "html",
+    "html-symbol-entities",
+    "node",
+    "npm",
+    "softwareTerms",
+    "typescript"
+  ],
+  "language": "en,en-GB,en-US",
+  "useGitignore": true,
+  "words": ["scpell", "yusukehirao"]
+}
