@@ -22,6 +22,9 @@ module.exports = {
     sourceType: 'module',
     project: ['./tsconfig.json'],
   },
+  globals: {
+    NodeJS: true,
+  },
   rules: {
     'no-var': 2,
     'no-unused-vars': 0,
