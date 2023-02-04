@@ -8,6 +8,12 @@
   "publishConfig": {
     "access": "public"
   },
+  "files": [
+    ".eslintrc.js",
+    ".prettierrc.json",
+    "cspell.json",
+    "tsconfig.base.json"
+  ],
   "scripts": {
     "lint": "prettier --write \"**/*\"; eslint --fix \"**/*.{ts,mjs}\""
   },
