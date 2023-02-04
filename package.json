@@ -17,5 +17,11 @@
     "eslint-plugin-jsdoc": "^39.7.5",
     "eslint-plugin-sort-class-members": "^1.16.0",
     "prettier": "^2.8.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "peerDependencies": {
+    "typescript": "^4.9.5"
   }
 }
