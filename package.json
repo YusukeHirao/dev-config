@@ -8,6 +8,9 @@
   "publishConfig": {
     "access": "public"
   },
+  "scripts": {
+    "lint": "prettier --write \"**/*\"; eslint --fix \"**/*.{ts,mjs}\""
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.50.0",
     "@typescript-eslint/parser": "^5.50.0",
